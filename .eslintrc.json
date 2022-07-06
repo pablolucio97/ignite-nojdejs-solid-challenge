@@ -24,6 +24,8 @@
       "error",
       {
         "selector": "interface",
+        "endOfLine": "auto",
+        "usePrettierrc": false,
         "format": ["PascalCase"],
         "custom": {
           "regex": "^I[A-Z]",
